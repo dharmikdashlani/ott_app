@@ -1,16 +1,3 @@
-# ott
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1676807654030](https://user-images.githubusercontent.com/102135008/219947226-cd5f12b1-2145-4180-9813-7b7c1032102c.jpg)
+![1676807987501](https://user-images.githubusercontent.com/102135008/219947223-8d4225ff-c0ef-4eba-a21a-5bfad052f58c.jpg)
